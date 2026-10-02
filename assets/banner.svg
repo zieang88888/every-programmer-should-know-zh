@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 400" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">
+  <rect width="1600" height="400" fill="#FAF6EF"/>
+  <rect x="0" y="0" width="14" height="400" fill="#B23A2E"/>
+  <circle cx="1460" cy="70" r="70" fill="#F2E8D8"/>
+  <circle cx="1530" cy="330" r="95" fill="#E8E0D2"/>
+  <circle cx="150" cy="340" r="40" fill="#F2E8D8"/>
+  <rect x="120" y="300" width="160" height="8" fill="#B23A2E"/>
+  <rect x="1320" y="120" width="90" height="6" fill="#E8E0D2"/>
+  <text x="800" y="175" text-anchor="middle" font-size="72" font-weight="700" fill="#1F1B16">每个程序员都应该知道</text>
+  <text x="800" y="238" text-anchor="middle" font-size="30" fill="#1F1B16">10 万星必知清单 · 中文解读版</text>
+  <text x="800" y="298" text-anchor="middle" font-size="26" font-weight="600" fill="#B23A2E">懂原理，才不慌</text>
+  <text x="1560" y="378" text-anchor="end" font-size="14" fill="#1F1B16">every-programmer-should-know-zh</text>
+</svg>

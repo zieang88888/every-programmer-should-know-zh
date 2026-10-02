@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">
+  <rect width="1200" height="540" fill="#FAF6EF"/>
+  <text x="40" y="48" font-size="24" font-weight="700" fill="#1F1B16">七大主题 · 共 94 条</text>
+  <rect x="40" y="60" width="60" height="4" fill="#B23A2E"/>
+
+  <g>
+    <rect x="40" y="80" width="265" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <rect x="40" y="80" width="6" height="200" rx="3" fill="#B23A2E"/>
+    <text x="66" y="122" font-size="20" font-weight="700" fill="#1F1B16">数据结构与算法</text>
+    <text x="66" y="168" font-size="38" font-weight="700" fill="#B23A2E">14</text>
+    <text x="118" y="168" font-size="16" fill="#1F1B16">条</text>
+    <line x1="66" y1="188" x2="280" y2="188" stroke="#E8E0D2" stroke-width="1"/>
+    <text x="66" y="212" font-size="14" fill="#1F1B16">大 O 记号</text>
+    <text x="66" y="234" font-size="14" fill="#1F1B16">浮点数陷阱</text>
+    <text x="66" y="256" font-size="14" fill="#1F1B16">哈希表原理</text>
+  </g>
+
+  <g>
+    <rect x="325" y="80" width="265" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <rect x="325" y="80" width="6" height="200" rx="3" fill="#B23A2E"/>
+    <text x="351" y="122" font-size="20" font-weight="700" fill="#1F1B16">Web 基础</text>
+    <text x="351" y="168" font-size="38" font-weight="700" fill="#B23A2E">12</text>
+    <text x="403" y="168" font-size="16" fill="#1F1B16">条</text>
+    <line x1="351" y1="188" x2="565" y2="188" stroke="#E8E0D2" stroke-width="1"/>
+    <text x="351" y="212" font-size="14" fill="#1F1B16">HTTP 协议</text>
+    <text x="351" y="234" font-size="14" fill="#1F1B16">浏览器缓存</text>
+    <text x="351" y="256" font-size="14" fill="#1F1B16">Cookie 机制</text>
+  </g>
+
+  <g>
+    <rect x="610" y="80" width="265" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <rect x="610" y="80" width="6" height="200" rx="3" fill="#B23A2E"/>
+    <text x="636" y="122" font-size="20" font-weight="700" fill="#1F1B16">性能优化</text>
+    <text x="636" y="168" font-size="38" font-weight="700" fill="#B23A2E">9</text>
+    <text x="670" y="168" font-size="16" fill="#1F1B16">条</text>
+    <line x1="636" y1="188" x2="850" y2="188" stroke="#E8E0D2" stroke-width="1"/>
+    <text x="636" y="212" font-size="14" fill="#1F1B16">延迟与吞吐</text>
+    <text x="636" y="234" font-size="14" fill="#1F1B16">缓存层级</text>
+    <text x="636" y="256" font-size="14" fill="#1F1B16">系统调用</text>
+  </g>
+
+  <g>
+    <rect x="895" y="80" width="265" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <rect x="895" y="80" width="6" height="200" rx="3" fill="#B23A2E"/>
+    <text x="921" y="122" font-size="20" font-weight="700" fill="#1F1B16">安全常识</text>
+    <text x="921" y="168" font-size="38" font-weight="700" fill="#B23A2E">9</text>
+    <text x="955" y="168" font-size="16" fill="#1F1B16">条</text>
+    <line x1="921" y1="188" x2="1135" y2="188" stroke="#E8E0D2" stroke-width="1"/>
+    <text x="921" y="212" font-size="14" fill="#1F1B16">XSS 与 CSRF</text>
+    <text x="921" y="234" font-size="14" fill="#1F1B16">加密算法</text>
+    <text x="921" y="256" font-size="14" fill="#1F1B16">密钥管理</text>
+  </g>
+
+  <g>
+    <rect x="40" y="300" width="265" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <rect x="40" y="300" width="6" height="200" rx="3" fill="#B23A2E"/>
+    <text x="66" y="342" font-size="20" font-weight="700" fill="#1F1B16">系统设计</text>
+    <text x="66" y="388" font-size="38" font-weight="700" fill="#B23A2E">16</text>
+    <text x="118" y="388" font-size="16" fill="#1F1B16">条</text>
+    <line x1="66" y1="408" x2="280" y2="408" stroke="#E8E0D2" stroke-width="1"/>
+    <text x="66" y="432" font-size="14" fill="#1F1B16">冗余备份</text>
+    <text x="66" y="454" font-size="14" fill="#1F1B16">一致性协议</text>
+    <text x="66" y="476" font-size="14" fill="#1F1B16">负载均衡</text>
+  </g>
+
+  <g>
+    <rect x="325" y="300" width="265" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <rect x="325" y="300" width="6" height="200" rx="3" fill="#B23A2E"/>
+    <text x="351" y="342" font-size="20" font-weight="700" fill="#1F1B16">工具链与效率</text>
+    <text x="351" y="388" font-size="38" font-weight="700" fill="#B23A2E">16</text>
+    <text x="403" y="388" font-size="16" fill="#1F1B16">条</text>
+    <line x1="351" y1="408" x2="565" y2="408" stroke="#E8E0D2" stroke-width="1"/>
+    <text x="351" y="432" font-size="14" fill="#1F1B16">Git 版本控制</text>
+    <text x="351" y="454" font-size="14" fill="#1F1B16">调试器</text>
+    <text x="351" y="476" font-size="14" fill="#1F1B16">命令行技巧</text>
+  </g>
+
+  <g>
+    <rect x="610" y="300" width="265" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <rect x="610" y="300" width="6" height="200" rx="3" fill="#B23A2E"/>
+    <text x="636" y="342" font-size="20" font-weight="700" fill="#1F1B16">软技能与职业</text>
+    <text x="636" y="388" font-size="38" font-weight="700" fill="#B23A2E">18</text>
+    <text x="688" y="388" font-size="16" fill="#1F1B16">条</text>
+    <line x1="636" y1="408" x2="850" y2="408" stroke="#E8E0D2" stroke-width="1"/>
+    <text x="636" y="432" font-size="14" fill="#1F1B16">沟通表达</text>
+    <text x="636" y="454" font-size="14" fill="#1F1B16">技术文档</text>
+    <text x="636" y="476" font-size="14" fill="#1F1B16">代码评审</text>
+  </g>
+</svg>

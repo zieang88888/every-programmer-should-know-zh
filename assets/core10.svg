@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 510" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">
+  <rect width="1200" height="510" fill="#FAF6EF"/>
+  <text x="40" y="48" font-size="24" font-weight="700" fill="#1F1B16">必知 10 点速览</text>
+  <rect x="40" y="60" width="60" height="4" fill="#B23A2E"/>
+
+  <g>
+    <rect x="40" y="80" width="211" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <circle cx="72" cy="118" r="16" fill="#B23A2E"/>
+    <text x="72" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">01</text>
+    <text x="56" y="170" font-size="16" font-weight="700" fill="#1F1B16">大 O 复杂度</text>
+    <rect x="56" y="185" width="36" height="3" fill="#B23A2E"/>
+    <text x="231" y="268" text-anchor="end" font-size="56" font-weight="700" fill="#F2E8D8">01</text>
+  </g>
+
+  <g>
+    <rect x="267" y="80" width="211" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <circle cx="299" cy="118" r="16" fill="#B23A2E"/>
+    <text x="299" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">02</text>
+    <text x="283" y="170" font-size="16" font-weight="700" fill="#1F1B16">浮点数陷阱</text>
+    <rect x="283" y="185" width="36" height="3" fill="#B23A2E"/>
+    <text x="458" y="268" text-anchor="end" font-size="56" font-weight="700" fill="#F2E8D8">02</text>
+  </g>
+
+  <g>
+    <rect x="494" y="80" width="211" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <circle cx="526" cy="118" r="16" fill="#B23A2E"/>
+    <text x="526" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">03</text>
+    <text x="510" y="170" font-size="16" font-weight="700" fill="#1F1B16">Unicode 编码</text>
+    <rect x="510" y="185" width="36" height="3" fill="#B23A2E"/>
+    <text x="685" y="268" text-anchor="end" font-size="56" font-weight="700" fill="#F2E8D8">03</text>
+  </g>
+
+  <g>
+    <rect x="721" y="80" width="211" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <circle cx="753" cy="118" r="16" fill="#B23A2E"/>
+    <text x="753" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">04</text>
+    <text x="737" y="170" font-size="16" font-weight="700" fill="#1F1B16">延迟数字</text>
+    <rect x="737" y="185" width="36" height="3" fill="#B23A2E"/>
+    <text x="912" y="268" text-anchor="end" font-size="56" font-weight="700" fill="#F2E8D8">04</text>
+  </g>
+
+  <g>
+    <rect x="948" y="80" width="211" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <circle cx="980" cy="118" r="16" fill="#B23A2E"/>
+    <text x="980" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">05</text>
+    <text x="964" y="170" font-size="16" font-weight="700" fill="#1F1B16">时区与时间</text>
+    <rect x="964" y="185" width="36" height="3" fill="#B23A2E"/>
+    <text x="1139" y="268" text-anchor="end" font-size="56" font-weight="700" fill="#F2E8D8">05</text>
+  </g>
+
+  <g>
+    <rect x="40" y="300" width="211" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <circle cx="72" cy="338" r="16" fill="#B23A2E"/>
+    <text x="72" y="343" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">06</text>
+    <text x="56" y="390" font-size="16" font-weight="700" fill="#1F1B16">OWASP Top 10</text>
+    <rect x="56" y="405" width="36" height="3" fill="#B23A2E"/>
+    <text x="231" y="478" text-anchor="end" font-size="56" font-weight="700" fill="#F2E8D8">06</text>
+  </g>
+
+  <g>
+    <rect x="267" y="300" width="211" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <circle cx="299" cy="338" r="16" fill="#B23A2E"/>
+    <text x="299" y="343" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">07</text>
+    <text x="283" y="390" font-size="16" font-weight="700" fill="#1F1B16">哈希与加密的区别</text>
+    <rect x="283" y="405" width="36" height="3" fill="#B23A2E"/>
+    <text x="458" y="478" text-anchor="end" font-size="56" font-weight="700" fill="#F2E8D8">07</text>
+  </g>
+
+  <g>
+    <rect x="494" y="300" width="211" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <circle cx="526" cy="338" r="16" fill="#B23A2E"/>
+    <text x="526" y="343" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">08</text>
+    <text x="510" y="390" font-size="16" font-weight="700" fill="#1F1B16">分布式十大谬误</text>
+    <rect x="510" y="405" width="36" height="3" fill="#B23A2E"/>
+    <text x="685" y="478" text-anchor="end" font-size="56" font-weight="700" fill="#F2E8D8">08</text>
+  </g>
+
+  <g>
+    <rect x="721" y="300" width="211" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <circle cx="753" cy="338" r="16" fill="#B23A2E"/>
+    <text x="753" y="343" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">09</text>
+    <text x="737" y="390" font-size="16" font-weight="700" fill="#1F1B16">正则表达式</text>
+    <rect x="737" y="405" width="36" height="3" fill="#B23A2E"/>
+    <text x="912" y="478" text-anchor="end" font-size="56" font-weight="700" fill="#F2E8D8">09</text>
+  </g>
+
+  <g>
+    <rect x="948" y="300" width="211" height="200" rx="12" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+    <circle cx="980" cy="338" r="16" fill="#B23A2E"/>
+    <text x="980" y="343" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">10</text>
+    <text x="964" y="390" font-size="16" font-weight="700" fill="#1F1B16">内存与缓存</text>
+    <rect x="964" y="405" width="36" height="3" fill="#B23A2E"/>
+    <text x="1139" y="478" text-anchor="end" font-size="56" font-weight="700" fill="#F2E8D8">10</text>
+  </g>
+</svg>
